@@ -8,6 +8,9 @@ This is a quick prototype of a web app that in real-time:
 
 https://www.youtube.com/watch?v=O53XGnRlXNI
 
+## Test right now
+
+App is running on https://pyppe.github.io/live-sportscaster/
 
 # React + TypeScript + Vite
 
